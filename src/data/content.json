@@ -1,0 +1,283 @@
+{
+  "person": {
+    "fullName": "Munyaradzi Admire Dzvimbo",
+    "shortName": "Munyaradzi A. Dzvimbo",
+    "tagline": "Scholar of climate change, sustainable development, and livelihoods",
+    "locations": ["Zimbabwe", "South Africa"],
+    "affiliation": "University of the Free State",
+    "fields": ["Climate Change", "Sustainable Development", "Livelihoods", "Food Security", "Rural Development"],
+    "bio": {
+      "short": "Munyaradzi A. Dzvimbo is a Zimbabwean scholar whose work focuses on climate change, sustainable development, livelihoods, food security, and rural development.",
+      "long": "Munyaradzi A. Dzvimbo is a scholar working at the intersection of climate change, sustainable development, and everyday livelihoods. His research spans rural development, food security, environmental governance, and the social dimensions of vulnerability and adaptation—often engaging the realities of communities in Zimbabwe and Southern Africa.\n\nHe has previously worked as a high school teacher for more than a decade and has taught in Botswana, Eswatini (Swaziland), and South Africa. He has also worked with community-based environmental and nutrition initiatives in Zimbabwe as a researcher."
+    },
+    "contact": {
+      "emailPublic": "(add email)",
+      "links": [
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0001-6390-1541"
+        },
+        {
+          "label": "Google Scholar",
+          "url": "https://scholar.google.com/citations?user=9MzFgsAAAAAJ&hl=en"
+        },
+        {
+          "label": "Academia.edu",
+          "url": "https://ufs.academia.edu/MunyaradziDzvimbo"
+        },
+        {
+          "label": "Devex",
+          "url": "https://www.devex.com/people/munyaradzi-admire-d-1462364"
+        }
+      ]
+    }
+  },
+  "currentResearch": [
+    {
+      "title": "Gendered Dimensions of Climate Resilience",
+      "description": "Investigating how female-headed households in rural Zimbabwe adapt to climate variability, focusing on the intersection of poverty, gender roles, and environmental shocks. This work aims to inform gender-sensitive policy frameworks for agrarian communities.",
+      "status": "Ongoing",
+      "focus": "Gender & Climate Justice"
+    },
+    {
+      "title": "Institutional Bioecosystems for Agricultural Extension",
+      "description": "Analyzing the sustainability of agricultural extension systems and the critical role of traditional institutions. This research explores how harmonizing relationships between service providers and local communities can enhance rural development.",
+      "status": "Published / Ongoing Analysis",
+      "focus": "Rural Development & Governance"
+    },
+    {
+      "title": "Urban Informality & Climate Governance",
+      "description": "Exploring the political economy of urban informality in Harare and its implications for climate governance. The objective is to identify policy pathways that integrate informal sector resilience into broader urban planning strategies.",
+      "status": "Future Direction",
+      "focus": "Urban Policy & Sustainability"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "Citations",
+      "value": "480"
+    },
+    {
+      "label": "h-index",
+      "value": "12"
+    },
+    {
+      "label": "i10-index",
+      "value": "15"
+    }
+  ],
+  "education": [
+    {
+      "period": "2021–present",
+      "program": "PhD Student (Geography)",
+      "institution": "University of the Free State",
+      "sourceUrl": "https://orcid.org/0000-0001-6390-1541"
+    },
+    {
+      "period": "2021–present",
+      "program": "PhD Student (Development Studies)",
+      "institution": "University of South Africa",
+      "sourceUrl": "https://orcid.org/0000-0001-6390-1541"
+    },
+    {
+      "period": "2016–2017",
+      "program": "Master of Social Science in Development Studies",
+      "institution": "Lupane State University",
+      "sourceUrl": "https://orcid.org/0000-0001-6390-1541"
+    },
+    {
+      "period": "2012–2015",
+      "program": "BSc (Honours) in Development Studies",
+      "institution": "Zimbabwe Open University",
+      "sourceUrl": "https://orcid.org/0000-0001-6390-1541"
+    },
+    {
+      "period": "2006",
+      "program": "Diploma in Education (English & History)",
+      "institution": "University of Zimbabwe",
+      "sourceUrl": "https://orcid.org/0000-0001-6390-1541"
+    }
+  ],
+  "featuredWorks": [
+    {
+      "title": "Promoting sustainable development goals: Role of higher education institutions in climate and disaster management in Zimbabwe",
+      "year": 2022,
+      "citedBy": 51,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:4DMP91E08xMC",
+      "topics": ["SDGs", "Higher education", "Disaster risk management", "Zimbabwe"]
+    },
+    {
+      "title": "The political economy of Zimbabwean urban informality since 2000–A contemporary governance dilemma",
+      "year": 2020,
+      "citedBy": 44,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:WF5omc3nYNoC",
+      "topics": ["Urban informality", "Governance", "Zimbabwe"]
+    },
+    {
+      "title": "Women in the informal sector amid COVID-19: Implications for household peace and economic stability in urban Zimbabwe",
+      "year": 2022,
+      "citedBy": 34,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:M3ejUd6NZC8C",
+      "topics": ["COVID-19", "Gender", "Urban livelihoods"]
+    },
+    {
+      "title": "Understanding the Politics of Climate Change in Zimbabwe",
+      "year": 2023,
+      "citedBy": 5,
+      "link": "https://doi.org/10.1007/978-3-031-28728-2_10",
+      "topics": ["Climate policy", "Governance", "Livelihoods"]
+    }
+  ],
+  "publications": {
+    "sourceLabel": "Google Scholar",
+    "sourceUrl": "https://scholar.google.com/citations?user=9MzFgsAAAAAJ&hl=en",
+    "items": [
+      {
+        "title": "Promoting sustainable development goals: Role of higher education institutions in climate and disaster management in Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:4DMP91E08xMC",
+        "authors": "MA Dzvimbo, TM Mashizha, K Zhanda, A Mawonde Jàmbá-Journal of Disaster Risk Studies 14 (1), 1206, 2022",
+        "cited_by": 51,
+        "year": 2022
+      },
+      {
+        "title": "The political economy of Zimbabwean urban informality since 2000–A contemporary governance dilemma",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:WF5omc3nYNoC",
+        "authors": "AR Matamanda, I Chirisa, MA Dzvimbo, QL Chinozvina Development Southern Africa 37 (4), 694-707, 2020",
+        "cited_by": 44,
+        "year": 2020
+      },
+      {
+        "title": "Bioecosystems towards sustainable agricultural extension delivery: Effects of various factors",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:IWHjjKOFINEC",
+        "authors": "E Siankwilimba, C Mumba, BM Hang’ombe, J Munkombwe, ... Environment, development and sustainability 26 (9), 21801-21843, 2024",
+        "cited_by": 40,
+        "year": 2024
+      },
+      {
+        "title": "Women in the informal sector amid COVID-19: Implications for household peace and economic stability in urban Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:M3ejUd6NZC8C",
+        "authors": "K Zhanda, N Garutsa, MA Dzvimbo, A Mawonde Cities & health 6 (1), 37-50, 2022",
+        "cited_by": 34,
+        "year": 2022
+      },
+      {
+        "title": "EXAMINING THE IMPACT OF CLIMATE CHANGE ON RURAL LIVELIHOODS AND FOOD SECURITY: EVIDENCE FROM SANYATI DISTRICT IN MASHONALAND WEST, ZIMBABWE.",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:_FxGoFyzp5QC",
+        "authors": "TM Mashizha, C Ncube, MA Dzvimbo, M Monga Journal of Asian and African Social Science and Humanities 3 (2), 56-68, 2017",
+        "cited_by": 31,
+        "year": 2017
+      },
+      {
+        "title": "Children climate change activism and protests in Africa: Reflections and lessons from Greta Thunberg",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:YOwf2qJgpHMC",
+        "authors": "K Zhanda, MA Dzvimbo, L Chitongo Bulletin of Science, Technology & Society 41 (4), 87-98, 2021",
+        "cited_by": 30,
+        "year": 2021
+      },
+      {
+        "title": "The link between rural institutions and rural development: Reflections on smallholder farmers and donors in Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:roLk4NBRz8UC",
+        "authors": "MA Dzvimbo, M Monga, TM Mashizha Journal of Humanities and Social Science 22 (6), 46-53, 2017",
+        "cited_by": 19,
+        "year": 2017
+      },
+      {
+        "title": "Assessing climate change and urban poverty in the context of the COVID 19 lockdowns: Rethinking personality and societal challenges in Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:7PzlFSSx8tAC",
+        "authors": "HM Tirivangasi, MA Dzvimbo, N Chaminuka, A Mawonde Scientific African 20, e01710, 2023",
+        "cited_by": 18,
+        "year": 2023
+      },
+      {
+        "title": "The Dynamics of Gender: A Grassroots Perspective on Economic Resilience and Empowerment of the Tonga People in Kariba",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:LkGwnXOMwfcC",
+        "authors": "M Monga, M Dzvimbo, T Mashizha Budapest International Research and Critics Institute-Journal (BIRCI-Journal…, 2019",
+        "cited_by": 18,
+        "year": 2019
+      },
+      {
+        "title": "Improving livelihoods of resettled farmers through development of a knowledge base on climate change in Mhondoro-Ngezi District, Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:Y0pCki6q_DkC",
+        "authors": "TM Mashizha, M Monga, MA Dzvimbo International Journal of Sustainable Development Research 3 (2), 18-26, 2017",
+        "cited_by": 18,
+        "year": 2017
+      },
+      {
+        "title": "Revisiting Women Empowerment: A Review Of Policies On Landuse And Food Security In Zimbabwe.",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:Tyk-4Ss8FVUC",
+        "authors": "MA Dzvimbo, M Monga, TM Mashizha Advances in Social Sciences Research Journal 5 (4), 2018",
+        "cited_by": 15,
+        "year": 2018
+      },
+      {
+        "title": "Street vending as a solution to urban household livelihoods in Kadoma, Zimbabwe: Prospects and challenges",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:YsMSGLbcyi4C",
+        "authors": "M Monga, MA Dzvimbo, TM Mashizha Journal of Public Administration and Development Alternatives (JPADA) 4 (1…, 2019",
+        "cited_by": 12,
+        "year": 2019
+      },
+      {
+        "title": "The dilemma on reconceptualising natural resources in Campfire areas in Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:u5HHmVD_uO8C",
+        "authors": "MA Dzvimbo, M Monga, F Magijani Advances in Social Sciences Research Journal 5 (8), 522-533, 2018",
+        "cited_by": 12,
+        "year": 2018
+      },
+      {
+        "title": "Women’s vulnerability and adaptive capacity to climate change in Agrarian settings of Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:hFOr9nPyWt4C",
+        "authors": "D Nyathi, J Ndlovu, A Mare, MA Dzvimbo, M Ndlovu Climate Crisis, Social Responses and Sustainability: Socio-Ecological Study…, 2024",
+        "cited_by": 11,
+        "year": 2024
+      },
+      {
+        "title": "Conservation agriculture and climate change: Implications for sustainable rural development in Sanyati, Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:9yKSN-GCB0IC",
+        "authors": "MA Dzvimbo, TM Mashizha, M Monga, C Ncube Journal of Social and Development Sciences 8 (2), 38-46, 2017",
+        "cited_by": 11,
+        "year": 2017
+      },
+      {
+        "title": "Walking where men walk: gendered politics of smallholder agriculture in Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:qUcmZB5y_30C",
+        "authors": "H Tirivangasi, M Dzvimbo, L Chitongo, A Mawonde Present Environment and Sustainable Development, 2023",
+        "cited_by": 9,
+        "year": 2023
+      },
+      {
+        "title": "Education as a tool for nation building: The case of Zimbabwe’s new curriculum",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:dhFuZR0502QC",
+        "authors": "MA Dzvimbo, F Magijani, F Zimhondi The International Journal of Humanities and Social Studies 6 (8), 37-44, 2018",
+        "cited_by": 8,
+        "year": 2018
+      },
+      {
+        "title": "Food security and rural livelihoods in the doldrums: exploring alternatives for Sanyati through sustainable development goals",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:W7OEmFMy1HYC",
+        "authors": "TM Mashizha, MA Dzvimbo Africanus: Journal of Development Studies 48 (2), 16 pages-16 pages, 2018",
+        "cited_by": 8,
+        "year": 2018
+      },
+      {
+        "title": "Climate change and infrastructure planning: Implications for sustainable urban management in Harare, Zimbabwe",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:IjCSPb-OGe4C",
+        "authors": "AR Matamanda, MA Dzvimbo, RT Kadebu Journal of Public Administration and Development Alternatives (JPADA) 2 (1-1…, 2017",
+        "cited_by": 8,
+        "year": 2017
+      },
+      {
+        "title": "The Socio-Economic Impact of De-Agrarianisation in Sub-Sahara: A Re-Look on Rural Livelihoods and Employment",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9MzFgsAAAAAJ&citation_for_view=9MzFgsAAAAAJ:RHpTSmoSYBkC",
+        "authors": "D Nyath, J Ndlovu, M Dzvimbo Journal of Sustainable Development Law and Policy (The) 16 (1), 25-51, 2025",
+        "cited_by": 7,
+        "year": 2025
+      }
+    ]
+  },
+  "citations": {
+    "orcid": "https://orcid.org/0000-0001-6390-1541",
+    "scholar": "https://scholar.google.com/citations?user=9MzFgsAAAAAJ&hl=en",
+    "africaUsForum": "https://africausforum.news.blog/speakers/",
+    "academia": "https://ufs.academia.edu/MunyaradziDzvimbo"
+  }
+}
